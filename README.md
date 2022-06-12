@@ -19,9 +19,9 @@ cargo +nightly contract build --release
 after that :
 change your directory and clone : 
 
-cargo install contracts-node --git https://github.com/paritytech/substrate-contracts-node.git --tag <latest-tag> --force --locked
+(cargo install contracts-node --git https://github.com/paritytech/substrate-contracts-node.git --tag <latest-tag> --force --locked)
   
-after that write : substrate-contracts-node --dev
+after that write : (substrate-contracts-node --dev)
   
 And use this : https://paritytech.github.io/contracts-ui
   
