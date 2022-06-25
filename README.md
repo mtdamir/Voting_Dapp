@@ -3,7 +3,7 @@ Voting Dapp
 
 ## General info
 This project about write Voting contract using ink!
-Every you need in main.rs
+Every you need in lib.rs
 
 ## Technologies
 Rust
